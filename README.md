@@ -20,7 +20,7 @@ I am currently building foundational cybersecurity knowledge aligned to Security
 
 | Lab | Topic | Status |
 |---|---|---|
-| L01 | Asset Inventory + CIA Risk Assessment | Completed |
+| [L01](labs/L01-asset-inventory-cia-risk-assessment) | Asset Inventory + CIA Risk Assessment | Complete |
 
 ## Portfolio Structure
 
