@@ -95,7 +95,7 @@ Based on the assessment, the organization should prioritize:
 
 ## Screenshots / Evidence
 
-Asset inventory table:
+Asset Inventory table:
 
 ![Asset Inventory Table](screenshots/asset-inventory-table.png)
 
