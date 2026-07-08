@@ -38,4 +38,4 @@ Each lab includes:
 
 ## Purpose
 
-The purpose of this portfolio is to show my ability to think through cybersecurity concepts, document technical work clearly, and connect security principles to real-world business and technology environments.
+The purpose of this portfolio is to demonstrate my ability to think through cybersecurity concepts, document technical work clearly, and connect security principles to real-world business and technology environments.
