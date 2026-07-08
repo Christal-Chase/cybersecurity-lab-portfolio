@@ -19,8 +19,8 @@ No passwords, recovery codes, backup codes, usernames, phone numbers, or sensiti
 ## Tools Used
 
 - Account security settings
-- Password manager or browser password checkup
-- Spreadsheet or markdown table
+- Password manager
+- Spreadsheet 
 - GitHub
 - MFA settings
 
@@ -34,7 +34,7 @@ The following account categories were reviewed:
 - GitHub account
 - Cloud storage account
 - Financial account
-- Shopping or payment account
+- Shopping account
 
 ---
 
