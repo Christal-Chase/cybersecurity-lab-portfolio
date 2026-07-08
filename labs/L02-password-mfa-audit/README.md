@@ -18,11 +18,11 @@ No passwords, recovery codes, backup codes, usernames, phone numbers, or sensiti
 
 ## Tools Used
 
-- Account security settings
-- Password manager
+- Account Security Settings
+- Password Manager
 - Spreadsheet 
 - GitHub
-- MFA settings
+- MFA Settings
 
 ---
 
@@ -30,11 +30,11 @@ No passwords, recovery codes, backup codes, usernames, phone numbers, or sensiti
 
 The following account categories were reviewed:
 
-- Primary email account
-- GitHub account
-- Cloud storage account
-- Financial account
-- Shopping account
+- Primary Email Account
+- GitHub Account
+- Cloud Storage Account
+- Financial Account
+- Shopping Account
 
 ---
 
@@ -46,7 +46,7 @@ The following account categories were reviewed:
 | GitHub Account | Portfolio, repositories, account profile | Strong / Unique | Enabled - Authenticator App or Passkey | Unauthorized access could alter or delete portfolio work | Enable MFA, use unique password, review active sessions | MFA confirmed or enabled | Low |
 | Cloud Storage Account | Documents, photos, backups, shared files | Moderate / Unique | Enabled - SMS or App | Misuse could expose personal documents or shared files | Upgrade MFA to authenticator app, review sharing permissions | Reviewed MFA and sharing settings | Medium |
 | Financial Account | Banking/payment information | Strong / Unique | Enabled - SMS or App | Account takeover could lead to financial fraud | Use strongest MFA available, enable alerts, review devices | Confirmed MFA and alerts | Low |
-| Shopping / Payment Account | Saved cards, address, purchase history | Moderate / Reused or Unknown | Not Enabled or SMS | Saved payment methods could be abused | Change to unique password and enable MFA | Updated password and enabled MFA | Medium |
+| Shopping Account | Saved cards, address, purchase history | Moderate / Reused or Unknown | Not Enabled or SMS | Saved payment methods could be abused | Change to unique password and enable MFA | Updated password and enabled MFA | Medium |
 
 ---
 
